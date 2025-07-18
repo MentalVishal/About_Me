@@ -1,15 +1,12 @@
 # 💻 About Me Webpage – Vishal Kumar
 
-![Profile](https://mentalvishal.github.io/images/pic.png)
-
 Welcome to my personal **About Me webpage**, a modern, responsive, and eye-catching portfolio-style page built using **HTML** and **CSS**.
 
 ---
 
 ## 🚀 Live Preview
 
-🌐 **[Click here to view the live page](#)**  
-_(Replace `#` with your GitHub Pages link once deployed)_
+🌐 **https://about-me-mentalvishal.vercel.app/**  
 
 ---
 
@@ -27,7 +24,7 @@ This project showcases a clean and professional layout to introduce myself — *
 
 ## 🧠 Features
 
-- ✅ **Sticky header** with circular profile image
+- ✅ **Header** with circular profile image
 - ✅ Fully **responsive design** (mobile/tablet/desktop)
 - ✅ Modern **semantic HTML structure**
 - ✅ Beautifully styled **form**, **table**, and **typography**
@@ -40,16 +37,21 @@ This project showcases a clean and professional layout to introduce myself — *
 
 ## 🖼️ Preview Screenshot
 
-![Screenshot of About Me Page](https://i.imgur.com/xFAkb4C.png)  
-_You can replace this screenshot link with your own image once available._
+<img width="3172" height="1810" alt="Screenshot 2025-07-18 231636" src="https://github.com/user-attachments/assets/f0be7e50-1c12-4335-90f5-48e75abd53fc" />
+<img width="3163" height="1818" alt="Screenshot 2025-07-18 231717" src="https://github.com/user-attachments/assets/42e0a355-b8ca-4f16-a199-e1e0e3ceee26" />
+<img width="3143" height="1820" alt="Screenshot 2025-07-18 231751" src="https://github.com/user-attachments/assets/fae35b17-5e45-44ca-8c03-f68e13e4a312" />
+
 
 ---
 
 ## 📁 File Structure
 
 about-me/
+
 ├── about-me.html # Main HTML page
+
 ├── style.css # Styling and responsive design
+
 └── README.md # You're here!
 
 ---
@@ -67,8 +69,8 @@ about-me/
 
 **Vishal Kumar**  
 💼 Highly Motivated Full Stack Web Developer  
-📷 [Portfolio (coming soon)](#)  
-🔗 [GitHub](https://github.com/mentalvishal)
+📷 [Portfolio](https://mentalvishal.github.io/)  
+🔗 [GitHub](https://github.com/MentalVishal)
 
 ---
 
@@ -77,7 +79,7 @@ about-me/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/about-me.git
+   git clone https://github.com/MentalVishal/About_Me.git
 
     cd about-me
 
@@ -95,21 +97,22 @@ Go to Settings > Pages.
 Choose the main branch and /root directory.
 
 Your page will be live at:
-https://your-username.github.io/about-me/
+https://github.com/MentalVishal/About_Me.git
+
 
 ## 📞 Contact
 
 Want to collaborate or say hi?
 
-📧 Email: youremail@example.com (replace with yours)
+📧 Email: vishalkumar36565@gmail.com
 
-🌐 LinkedIn: linkedin.com/in/yourprofile
+🌐 LinkedIn: https://www.linkedin.com/in/mentalvishal/
 
-🧠 Portfolio: coming soon
+🧠 Portfolio: https://mentalvishal.github.io/
+
+
 
 ## 💬 “Strive to build not just websites, but experiences that delight and inspire.”
-
----
 
 ---
 
